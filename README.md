@@ -1,2 +1,3 @@
 Click the link to download assingments:
-[cs211_hw1_week3.pdf](https://github.com/user-attachments/files/25240358/cs211_hw1_week3.pdf)
+
+[mini_exam.pdf](https://github.com/user-attachments/files/25240431/mini_exam.pdf)
